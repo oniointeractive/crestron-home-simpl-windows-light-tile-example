@@ -10,7 +10,7 @@ It is intended for Crestron programmers, AV integrators, and smart home professi
 
 Watch the full tutorial here:
 
-https://youtu.be/xH_nnI3aauA?si=e9vDSfig7OacuP44
+https://youtu.be/rt0xDpTKdmo
 
 ## What This Example Covers
 
